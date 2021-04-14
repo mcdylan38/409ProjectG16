@@ -1,7 +1,6 @@
 package edu.ucalgary.ensf409;
 
 /**
- *
  * @version 1.0
  * @since 1.0
  */
