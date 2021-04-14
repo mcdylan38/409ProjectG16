@@ -2,11 +2,7 @@ ENEL409 Principles of Software Development (W2021)
 Term Project - README
 **************************************************************
 Group 16:
-Michael Tagg
-Omar Erak
-Dylan Mah
-Darsh Shah
-**************************************************************
+
 Functional Overview:
 
 This project includes a package "edu.ucalgary.ensf409" where a main class:
