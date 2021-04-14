@@ -7,4 +7,4 @@ Project required students to access a database that contained parts of furniture
 printed holding the IDs of the pieces used to create the furniture, the total price and the manufacturer. If the furniture cannot be made using the available pieces, an error
 message was printed to the console instead.
 
-The project made use of MySQL databases, that is included in the repository.
+The project made use of MySQL databases, that is included in the repository under the d2ldocs folder.
