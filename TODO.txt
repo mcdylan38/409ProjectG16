@@ -1,3 +1,0 @@
-UML TODO:
-* check relationships between classes
-
